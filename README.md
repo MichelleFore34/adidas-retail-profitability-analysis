@@ -2,7 +2,7 @@
 
 **Question:** Should Adidas drop a retail partner or sales channel to reach a 5% profit target?
 
-![Dashboard preview](images/dashboard.png)
+![Dashboard preview](dashboard.png)
 
 ## Key findings
 - Channel mattered far more than retailer: in-store operating margin was 36%, outlet was 46%
