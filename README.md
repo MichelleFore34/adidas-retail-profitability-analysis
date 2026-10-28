@@ -17,7 +17,7 @@
 Excel, SQL, Tableau
 
 ## Links
-[Interactive dashboard on Tableau Public]([(https://public.tableau.com/views/AdidasExploratoryAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)])
+[Interactive dashboard on Tableau Public](https://public.tableau.com/views/AdidasExploratoryAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## About
 Built as part of the Springboard Data Analytics Career Track as a Capstone project.
